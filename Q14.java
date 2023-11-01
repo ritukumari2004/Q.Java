@@ -1,3 +1,4 @@
+//Check Whether or Not the Number is an Armstrong Number
 public class Q14 {
     public static void main(String[] args) {
      int number = 371, originalNumber, rem, res = 0, n=0;
