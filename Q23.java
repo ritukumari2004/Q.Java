@@ -1,3 +1,4 @@
+//Check for Perfect Square
 public class Q23 {
     static boolean isPerfectSquare(int x)
 	{
